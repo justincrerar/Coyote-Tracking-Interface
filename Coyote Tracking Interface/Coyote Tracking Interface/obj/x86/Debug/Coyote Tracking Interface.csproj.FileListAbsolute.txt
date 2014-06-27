@@ -1,0 +1,24 @@
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\bin\Debug\Coyote Tracking Interface.exe
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\bin\Debug\Coyote Tracking Interface.pdb
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\bin\Debug\OpenPop.dll
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.csprojResolveAssemblyReference.cache
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.Form1.resources
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.Form2.resources
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.Properties.Resources.resources
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.csproj.GenerateResource.Cache
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.exe
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.pdb
+C:\Users\Justin Crerar\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.monitorForm.resources
+C:\Users\Justin Crerar\documents\visual studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.optionForm.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\bin\Debug\Coyote Tracking Interface.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\bin\Debug\Coyote Tracking Interface.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.Form1.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.Form2.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.optionForm.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.monitorForm.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote Tracking Interface.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Coyote Tracking Interface\Coyote Tracking Interface\obj\x86\Debug\Coyote_Tracking_Interface.GeoForm.resources
